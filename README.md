@@ -85,7 +85,7 @@ Ong See Gek Cheryl - Exploratory Data Analysis , Data Visualizations, Trend Anal
 
 Arun Vasan Keertana - Machine Learning Modeling
 
-Li Yufei - Data cleaning (Bootstrapping), Data extraction, Feature Selection & relations
+Li Yufei - Data cleaning (Bootstrapping), Data extraction, Feature Selection & comparisons
 
 
 
