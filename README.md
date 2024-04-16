@@ -37,7 +37,7 @@ _Our insights could be used in the real world to:_
 
 _Based on the Feature Importance and Exploratory Data Analysis_ - 
 
-**1) The most important features defining Taylor Swift's music are 'speechiness', 'loudness', and 'acousticness'.The most important features defining BTS music are 'speechiness', 'instrumentalness', and 'loudness'.**
+**1) The most important features defining Taylor Swift's music are 'speechiness', 'loudness', and 'acousticness'. The most important features defining BTS music are 'speechiness', 'instrumentalness', and 'loudness'.**
 
 **2) Speechiness:-**
 Taylor Swift's music tends to have low speechiness, with the majority of her songs having a speechiness of 0.055225 or less. This suggests that her songs contain fewer spoken words.
