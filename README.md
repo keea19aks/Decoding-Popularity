@@ -83,7 +83,7 @@ In essence, both artists have shown significant evolution in their music, with T
 
 Ong See Gek Cheryl - Exploratory Data Analysis , Data Visualizations, Trend Analysis
 
-Arun Vasan Keertana - Machine Learning Modeling
+Arun Vasan Keertana - Machine Learning Modeling, predictive analysis
 
 Li Yufei - Data cleaning (Bootstrapping), Data extraction, Feature Selection & comparisons
 
